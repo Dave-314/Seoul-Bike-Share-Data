@@ -2,6 +2,8 @@
 
 Welcome to the Seoul Bike Share Dataset Project! As a dedicated data scientist, I am excited to present this project, which encompasses data management, data visualization, and machine learning techniques applied to the Seoul Bike Share dataset.
 
+If you are new to GitHub click [here](https://github.com/Dave-314/Seoul-Bike-Share-Data/blob/main/Seoul%20Bike%20Share%20Analysis%20Revised.ipynb) to view the project.
+
 ## Project Overview
 In this project, we dive into the Seoul Bike Share dataset, aiming to gain valuable insights and make predictions related to bike rental patterns in Seoul. By leveraging our data management, visualization, and machine learning skills, we uncover trends, explore relationships, and develop models to optimize bike sharing operations.
 
